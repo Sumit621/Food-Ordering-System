@@ -1,0 +1,6 @@
+*********ORDER TOKEN*********
+
+1  Hersheys Choco Shake  Tk.140
+2  Aloo Patty Cheese Patty Burger(Extra Cheese)  Tk.190
+
+  Total Bill is: Tk.330
